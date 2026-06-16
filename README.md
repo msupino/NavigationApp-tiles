@@ -7,10 +7,10 @@ Currently hosted layers:
 - `CVFR`
 - `Israel-Navigation`
 
-URL pattern after GitHub Pages is enabled:
+URL pattern:
 
 ```text
-https://msupino.github.io/NavigationApp-tiles/{layer}/{z}/{x}/{y}.png
+https://navaid-tiles.supino.org/{layer}/{z}/{x}/{y}.png
 ```
 
 Source MBTiles were downloaded from `https://flight-maps.com/` and extracted
