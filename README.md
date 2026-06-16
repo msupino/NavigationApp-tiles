@@ -6,6 +6,8 @@ Currently hosted layers:
 
 - `CVFR`
 - `Israel-Navigation`
+- `LSA-Low-Altitude`
+- `Israel-Helicopters`
 
 URL pattern:
 
